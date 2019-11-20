@@ -1,0 +1,9 @@
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\bin\Debug\DBDemo.exe.config
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\bin\Debug\DBDemo.exe
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\bin\Debug\DBDemo.pdb
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.csprojAssemblyReference.cache
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.Form1.resources
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.Properties.Resources.resources
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.csproj.GenerateResource.cache
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.exe
+F:\Data\Nam2\HK1\OOP\DBDemo\DBDemo\obj\Debug\DBDemo.pdb
